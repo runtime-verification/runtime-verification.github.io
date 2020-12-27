@@ -9,17 +9,21 @@ order: 2
 <h2>Future Events </h2>
 
 
-[RV'20](https://rv20.ait.ac.at) The 20th International Conference on Runtime Verification, Los Angeles, California, October 6-9, 2020. 
+**RV'21** The 21st International Conference on Runtime Verification, Los Angeles, California, October 2020 (planned physical event this time, if all goes well). 
 
 Organized by: 
-- [Jyotirmoy Deshmukh](https://viterbi-web.usc.edu/~jdeshmuk/), USC - University of Southern California (PC chair)
-- [Dejan Nickovic](https://sites.google.com/view/nickovic), AIT - Austrian Institute of Technology (PC chair)
+
+- [Lu Feng](https://engineering.virginia.edu/faculty/lu-feng), University of Virginia, USA (PC chair)
+- [Dana Fisman](https://www.cs.bgu.ac.il/~dana), Ben-Gurion University, Israel (PC chair)
+- [Jyotirmoy Deshmukh](https://viterbi-web.usc.edu/~jdeshmuk/), USC - University of Southern California, USA (Local chair)
+
 
 
 <h2>Past Conferences</h2>
 
 [Link to LNCS Series of RV conferences](https://link.springer.com/conference/rv)
 
+| [RV'20](https://rv20.ait.ac.at) | The 20th International Conference on Runtime Verification, Los Angeles, California, October 6-9, 2020 (virtual) | [proceedings](https://www.springer.com/gp/book/9783030605070)
 | [RV'19](https://www.react.uni-saarland.de/rv2019/) | The 19th International Conference on Runtime Verification, Porto, Portugal, October 8-11, 2019 | [proceedings](https://www.springer.com/gp/book/9783030320782)
 | [RV'18](https://rv2018.isp.uni-luebeck.de/) | The 18th International Conference on Runtime Verification, Limassol, Cyprus, November 10-13, 2018 | [proceedings](https://www.springer.com/gp/book/9783030037680)
 | [RV'17](http://rv2017.cs.manchester.ac.uk/) | The 17th International Conference on Runtime Verification, Seattle, Washington, September 13-16, 2017| [proceedings](https://www.springer.com/gp/book/9783319675305)
