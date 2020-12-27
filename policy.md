@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Policy 
-order: 100
+order: 6
 ---
 
 ## Diversity & Inclusion
