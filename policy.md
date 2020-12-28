@@ -54,12 +54,12 @@ Harassment can occur when there is no deliberate intention to offend. Be careful
 
 ## Consequences of Unacceptable Behavior
 
-If a participant in an RV activity engages in prohibited behavior, RV reserves the right to take any action RV deems appropriate. RV reserves the right to:
+If a participant in an RV activity engages in prohibited behavior, the RV steering committee reserves the right to take any action it deems appropriate. The steering committee reserves the right to:
 
 * remove an individual from any RV activity without warning or refund;
 * prohibit an individual from participating in future RV activities, including publishing in RV publications;
 * exclude an individual from RV leadership positions;
-* exclude any individual from deriving other benefits from RV activities;
+* exclude any individual from deriving other benefits from RV activities.
 
 Appropriate sanctions also will be taken toward any individual who knowingly makes a false allegation of harassment.
 
