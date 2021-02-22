@@ -9,14 +9,15 @@ order: 2
 <h2>Future Events </h2>
 
 
-**RV'21** The 21st International Conference on Runtime Verification, Los Angeles, California, October 2020 (planned physical event this time, if all goes well). 
+
+
+[RV'21](http://rv21.cs.bgu.ac.il) The 21st International Conference on Runtime Verification, Los Angeles, California, October 11-14, 2021 (virtual). 
 
 Organized by: 
 
 - [Lu Feng](https://engineering.virginia.edu/faculty/lu-feng), University of Virginia, USA (PC chair)
 - [Dana Fisman](https://www.cs.bgu.ac.il/~dana), Ben-Gurion University, Israel (PC chair)
 - [Jyotirmoy Deshmukh](https://viterbi-web.usc.edu/~jdeshmuk/), USC - University of Southern California, USA (Local chair)
-
 
 
 <h2>Past Conferences</h2>
