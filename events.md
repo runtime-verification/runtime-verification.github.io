@@ -8,22 +8,20 @@ order: 2
 
 <h2>Future Events </h2>
 
-
-
-
-[RV'21](http://rv21.cs.bgu.ac.il) The 21st International Conference on Runtime Verification, Los Angeles, California, October 11-14, 2021 (virtual). 
+**RV'22** The 22nd International Conference on Runtime Verification, 
+Tbilisi, Georgia, September 28-30, 2022. Associated with
+[Computational Logic Autumn Summit (CLAS 2022)](http://viam.science.tsu.ge/clas2022/).
 
 Organized by: 
 
-- [Lu Feng](https://engineering.virginia.edu/faculty/lu-feng), University of Virginia, USA (PC chair)
-- [Dana Fisman](https://www.cs.bgu.ac.il/~dana), Ben-Gurion University, Israel (PC chair)
-- [Jyotirmoy Deshmukh](https://viterbi-web.usc.edu/~jdeshmuk/), USC - University of Southern California, USA (Local chair)
-
+- [Thao Dang](http://www-verimag.imag.fr/PEOPLE/Thao.Dang), Verimag and Universite Grenoble Alpes, France (PC chair)
+- [Volker Stolz](https://ict.hvl.no/people/volker-stolz),  HVL and University of Oslo, Norway (PC chair)
 
 <h2>Past Conferences</h2>
 
 [Link to LNCS Series of RV conferences](https://link.springer.com/conference/rv)
 
+| [RV'21](http://rv21.cs.bgu.ac.il) | The 21st International Conference on Runtime Verification, Los Angeles, California, October 11-14, 2021 (virtual) | [proceedings](https://link.springer.com/book/10.1007/978-3-030-88494-9)
 | [RV'20](https://rv20.ait.ac.at) | The 20th International Conference on Runtime Verification, Los Angeles, California, October 6-9, 2020 (virtual) | [proceedings](https://www.springer.com/gp/book/9783030605070)
 | [RV'19](https://www.react.uni-saarland.de/rv2019/) | The 19th International Conference on Runtime Verification, Porto, Portugal, October 8-11, 2019 | [proceedings](https://www.springer.com/gp/book/9783030320782)
 | [RV'18](https://rv2018.isp.uni-luebeck.de/) | The 18th International Conference on Runtime Verification, Limassol, Cyprus, November 10-13, 2018 | [proceedings](https://www.springer.com/gp/book/9783030037680)
