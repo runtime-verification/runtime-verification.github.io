@@ -21,7 +21,7 @@ Organized by:
 
 [Link to LNCS Series of RV conferences](https://link.springer.com/conference/rv)
 
-| [RV'21](http://rv21.cs.bgu.ac.il) | The 21st International Conference on Runtime Verification, Los Angeles, California, October 11-14, 2021 (virtual) | [proceedings](https://link.springer.com/book/10.1007/978-3-030-88494-9)
+| [RV'21](https://uva-mcps-lab.github.io/RV21) | The 21st International Conference on Runtime Verification, Los Angeles, California, October 11-14, 2021 (virtual) | [proceedings](https://link.springer.com/book/10.1007/978-3-030-88494-9)
 | [RV'20](https://rv20.ait.ac.at) | The 20th International Conference on Runtime Verification, Los Angeles, California, October 6-9, 2020 (virtual) | [proceedings](https://www.springer.com/gp/book/9783030605070)
 | [RV'19](https://www.react.uni-saarland.de/rv2019/) | The 19th International Conference on Runtime Verification, Porto, Portugal, October 8-11, 2019 | [proceedings](https://www.springer.com/gp/book/9783030320782)
 | [RV'18](https://rv2018.isp.uni-luebeck.de/) | The 18th International Conference on Runtime Verification, Limassol, Cyprus, November 10-13, 2018 | [proceedings](https://www.springer.com/gp/book/9783030037680)
