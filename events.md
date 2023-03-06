@@ -8,19 +8,19 @@ order: 2
 
 <h2>Future Events </h2>
 
-[RV'22](https://rv22.gitlab.io/) The 22nd International Conference on Runtime Verification, 
-Tbilisi, Georgia, September 28-30, 2022. Associated with
-[Computational Logic Autumn Summit (CLAS 2022)](http://viam.science.tsu.ge/clas2022/).
+[RV'23](https://rv23.csd.auth.gr) The 23rd International Conference on Runtime Verification, 
+Thessaloniki, Greece, October 4-6, 2023.
 
 Organized by: 
 
-- [Thao Dang](http://www-verimag.imag.fr/PEOPLE/Thao.Dang), Verimag and Universite Grenoble Alpes, France (PC chair)
-- [Volker Stolz](https://ict.hvl.no/people/volker-stolz),  HVL and University of Oslo, Norway (PC chair)
+- [Panagiotis Katsaros](https://depend.csd.auth.gr/users/katsaros), Aristotle University of Thessaloniki, Greece  (PC chair and local chair)
+- [Laura Nenzi](https://lauranenzi.github.io/), University of Trieste, Italy (PC chair)
 
 <h2>Past Conferences</h2>
 
 [Link to LNCS Series of RV conferences](https://link.springer.com/conference/rv)
 
+| [RV'22](https://rv22.gitlab.io/) | The 22nd International Conference on Runtime Verification, Tbilisi, Georgia, September 28-30, 2022 | [proceedings](https://link.springer.com/book/10.1007/978-3-031-17196-3)
 | [RV'21](https://uva-mcps-lab.github.io/RV21) | The 21st International Conference on Runtime Verification, Los Angeles, California, October 11-14, 2021 (virtual) | [proceedings](https://link.springer.com/book/10.1007/978-3-030-88494-9)
 | [RV'20](https://rv20.ait.ac.at) | The 20th International Conference on Runtime Verification, Los Angeles, California, October 6-9, 2020 (virtual) | [proceedings](https://www.springer.com/gp/book/9783030605070)
 | [RV'19](https://www.react.uni-saarland.de/rv2019/) | The 19th International Conference on Runtime Verification, Porto, Portugal, October 8-11, 2019 | [proceedings](https://www.springer.com/gp/book/9783030320782)
