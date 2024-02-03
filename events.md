@@ -8,18 +8,21 @@ order: 2
 
 <h2>Future Events </h2>
 
-[RV'23](https://rv23.csd.auth.gr) The 23rd International Conference on Runtime Verification, 
-Thessaloniki, Greece, October 4-6, 2023.
+[RV'24](https://bouncmpe.github.io/rv24) The 24th International Conference on Runtime Verification, Istanbul, Turkey on October 15-18, 2024.
 
 Organized by: 
 
-- [Panagiotis Katsaros](https://depend.csd.auth.gr/users/katsaros), Aristotle University of Thessaloniki, Greece  (PC chair and local chair)
-- [Laura Nenzi](https://lauranenzi.github.io/), University of Trieste, Italy (PC chair)
+- [Erika Abraham](https://ths.rwth-aachen.de/people/erika-abraham/), RWTH Aachen University, Germany  (PC chair)
+- [Houssam Abbas](https://engineering.oregonstate.edu/people/houssam-abbas), Oregon State University, USA (PC chair)
+- [Doğan Ulus](https://www.cmpe.boun.edu.tr/tr/people/dogan.ulus), Boğaziçi University, Turkey (Local chair)
+
 
 <h2>Past Conferences</h2>
 
 [Link to LNCS Series of RV conferences](https://link.springer.com/conference/rv)
 
+
+| [RV'23](https://rv23.csd.auth.gr) | The 23rd International Conference on Runtime Verification, Thessaloniki, Greece, October 4-6, 2023 | [proceedings](https://link.springer.com/book/10.1007/978-3-031-44267-4)
 | [RV'22](https://rv22.gitlab.io/) | The 22nd International Conference on Runtime Verification, Tbilisi, Georgia, September 28-30, 2022 | [proceedings](https://link.springer.com/book/10.1007/978-3-031-17196-3)
 | [RV'21](https://uva-mcps-lab.github.io/RV21) | The 21st International Conference on Runtime Verification, Los Angeles, California, October 11-14, 2021 (virtual) | [proceedings](https://link.springer.com/book/10.1007/978-3-030-88494-9)
 | [RV'20](https://rv20.ait.ac.at) | The 20th International Conference on Runtime Verification, Los Angeles, California, October 6-9, 2020 (virtual) | [proceedings](https://www.springer.com/gp/book/9783030605070)
