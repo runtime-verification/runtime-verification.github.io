@@ -8,7 +8,7 @@ order: 2
 
 <h2>Future Events </h2>
 
-[RV'24](https://bouncmpe.github.io/rv24) The 24th International Conference on Runtime Verification, Istanbul, Turkey on October 15-18, 2024.
+[RV'24](https://bouncmpe.github.io/rv24) The 24th International Conference on Runtime Verification, Istanbul, Turkey, October 15-18, 2024.
 
 Organized by: 
 
