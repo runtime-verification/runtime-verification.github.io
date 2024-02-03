@@ -20,7 +20,7 @@ Organized by:
 
 [Link to LNCS Series of RV conferences](https://link.springer.com/conference/rv)
 
-Some links are no longer working, but we have kept the urls for historical reasons.
+Some conference website links are no longer working, but we have kept the urls for historical reasons.
 
 
 | [RV'23](https://rv23.csd.auth.gr) | The 23rd International Conference on Runtime Verification, Thessaloniki, Greece, October 4-6, 2023 | [proceedings](https://link.springer.com/book/10.1007/978-3-031-44267-4)
