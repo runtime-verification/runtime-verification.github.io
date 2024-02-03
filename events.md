@@ -12,10 +12,9 @@ order: 2
 
 Organized by: 
 
-- [Erika Abraham](https://ths.rwth-aachen.de/people/erika-abraham), RWTH Aachen University, Germany  (PC chair)
 - [Houssam Abbas](http://www.houssamabbas.com), Oregon State University, USA (PC chair)
+- [Erika Abraham](https://ths.rwth-aachen.de/people/erika-abraham), RWTH Aachen University, Germany  (PC chair)
 - [Doğan Ulus](https://github.com/doganulus), Boğaziçi University, Turkey (Local chair)
-
 
 <h2>Past Conferences</h2>
 
