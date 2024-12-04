@@ -8,13 +8,22 @@ order: 2
 
 <h2>Future Events </h2>
 
-[RV'24](https://bouncmpe.github.io/rv24) The 24th International Conference on Runtime Verification, Istanbul, Turkey, October 15-18, 2024.
+[RV'25](https://rv25.conf.tuwien.ac.at) The 25th International Conference on Runtime Verification, Vienna, Austria, September 15-19, 2025.
 
-Organized by: 
+Program chairs: 
 
-- [Houssam Abbas](http://www.houssamabbas.com), Oregon State University, USA (PC chair)
-- [Erika Abraham](https://ths.rwth-aachen.de/people/erika-abraham), RWTH Aachen University, Germany  (PC chair)
-- [Doğan Ulus](https://github.com/doganulus), Boğaziçi University, Turkey (Local chair)
+- [Bettina Könighofer](https://www.iaik.tugraz.at/person/bettina-koenighofer), Graz University of Technology, Austria
+- [Hazem Torfah](https://starlab.systems/torfah.html), Chalmers University of Technology, Sweden
+
+Local chair:
+
+- [Ezio Bartocci](https://www.eziobartocci.com/), TU Wien, Austria
+
+Publicity Chair
+
+- [Martin Tappler](https://mtappler.wordpress.com/) TU Wien, Austria
+
+
 
 <h2>Past Conferences</h2>
 
@@ -22,7 +31,7 @@ Organized by:
 
 Some conference website links are no longer working, but we have kept the urls for historical reasons.
 
-
+| [RV'24](https://bouncmpe.github.io/rv24) | The 24st International Conference on Runtime Verification, Istanbul, Turkey, October 15-18, 2024 | [proceedings](https://link.springer.com/book/10.1007/978-3-031-74234-7)
 | [RV'23](https://rv23.csd.auth.gr) | The 23rd International Conference on Runtime Verification, Thessaloniki, Greece, October 4-6, 2023 | [proceedings](https://link.springer.com/book/10.1007/978-3-031-44267-4)
 | [RV'22](https://rv22.gitlab.io/) | The 22nd International Conference on Runtime Verification, Tbilisi, Georgia, September 28-30, 2022 | [proceedings](https://link.springer.com/book/10.1007/978-3-031-17196-3)
 | [RV'21](https://uva-mcps-lab.github.io/RV21) | The 21st International Conference on Runtime Verification, Los Angeles, California, October 11-14, 2021 (virtual) | [proceedings](https://link.springer.com/book/10.1007/978-3-030-88494-9)
