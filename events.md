@@ -8,7 +8,7 @@ order: 2
 
 <h2>Future Events </h2>
 
-[RV'25](https://rv25.conf.tuwien.ac.at) The 25th International Conference on Runtime Verification, Vienna, Austria, September 15-19, 2025.
+[RV'25](https://rv25.conf.tuwien.ac.at) **The 25th International Conference on Runtime Verification, Vienna, Austria, September 15-19, 2025**.
 
 Program chairs: 
 
@@ -21,7 +21,7 @@ Local chair:
 
 Publicity Chair
 
-- [Martin Tappler](https://mtappler.wordpress.com/) TU Wien, Austria
+- [Martin Tappler](https://mtappler.wordpress.com/), TU Wien, Austria
 
 
 
