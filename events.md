@@ -8,7 +8,11 @@ order: 2
 
 <h2>Future Events </h2>
 
-[RV'25](https://rv25.conf.tuwien.ac.at) **The 25th International Conference on Runtime Verification, Vienna, Austria, September 15-19, 2025**.
+[RV'25](https://rv25.isec.tugraz.at/) **The 25th International Conference on Runtime Verification, Graz, Austria, September 15-19, 2025**.
+
+General chair:
+
+- [Ezio bartocci](https://www.eziobartocci.com), TU Wien, Austria
 
 Program chairs: 
 
@@ -17,7 +21,7 @@ Program chairs:
 
 Local chair:
 
-- [Ezio Bartocci](https://www.eziobartocci.com/), TU Wien, Austria
+- [Roderick Bloem](https://www.isec.tugraz.at/person/roderick-bloem/), Graz University of Technology, Austria
 
 Publicity Chair
 
