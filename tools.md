@@ -54,10 +54,10 @@ This page contains links to various runtime verification tools that have been de
 
 - [TeSSLa](https://tessla.io)
 
-- Breach 
+- Breach ???
 
-- Montre
+- Montre ???
 
-- DetectEr
+- [detectEr](https://github.com/duncanatt/detecter)
 
-- TimelyMon
+- [TimelyMon](https://git.ku.dk/kfx532/timelymon) ???
