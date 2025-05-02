@@ -5,26 +5,21 @@ title: Tools
 
 This page contains links to various runtime verification tools that have been developed over time. Feel free to add your tool.
 
-- [Daut](https://github.com/havelund/daut) An internal shallow Scala DSL (effectively an API) for runtime verification. A monitor is programmed as a class subclassing the `Monitor` class, which provides various constructs for writing monitors.
-
-- [SMEDL](https://github.com/PRECISE/SMEDL) A runtime verification framework to specify monitors using an EFSM-style formalism, to generate C executable monitor code from specifications, and to deploy the monitors in a centralized or distributed settings.
-
 - [BeepBeep3](https://liflab.github.io/beepbeep-3)
 
+- Breach ???
 
-- [Pycontract](https://github.com/pyrv/pycontract
-
-
-- [TraceContract](https://github.com/havelund/tracecontract)
-
+- [Daut](https://github.com/havelund/daut) An internal shallow Scala DSL (effectively an API) for runtime verification. A monitor is programmed as a class subclassing the `Monitor` class, which provides various constructs for writing monitors.
 
 - [DejaVu](https://github.com/havelund/dejavu)
 
-- [PydDejaVu](https://github.com/moraneus/pydejavu)
+- [detectEr](https://github.com/duncanatt/detecter)
+
+- [HLola](https://software.imdea.org/hlola)
+
+- [HStriver](https://software.imdea.org/hstriver)
 
 - [JavaMop](https://github.com/runtimeverification/javamop)
-
-- [ROSRV](https://github.com/cansuerdogan/ROSRV)
 
 - [JUnitRV](https://www.isp.uni-luebeck.de/junitrv)
 
@@ -32,32 +27,35 @@ This page contains links to various runtime verification tools that have been de
 
 - [LogFire](https://github.com/havelund/logfire)
 
-- [QEA](https://github.com/selig/qea)
-
 - [MonPoly](https://bitbucket.org/monpoly/monpoly/src/master)
 
-- [Verimon](https://bitbucket.org/jshs/monpoly) ???
+- Montre ???
 
 - [Nfer](http://nfer.io)
 
-- [R2U2](https://r2u2.temporallogic.org)
+- [PyContract](https://github.com/pyrv/pycontract
+
+- [PydDejaVu](https://github.com/moraneus/pydejavu)
+
+- [QEA](https://github.com/selig/qea)
+
+- [ROSRV](https://github.com/cansuerdogan/ROSRV)
 
 - [RTAMT](https://github.com/nickovic/rtamt)
 
 - [RTAMT-CPP](https://github.com/Digital-Safety-and-Security/rtamt-cpp)
 
-- [HLola](https://software.imdea.org/hlola)
-
 - [RTLola](https://rtlola.cispa.de)
 
-- [HStriver](https://software.imdea.org/hstriver)
+- [R2U2](https://r2u2.temporallogic.org)
+
+- [SMEDL](https://github.com/PRECISE/SMEDL) A runtime verification framework to specify monitors using an EFSM-style formalism, to generate C executable monitor code from specifications, and to deploy the monitors in a centralized or distributed settings.
 
 - [TeSSLa](https://tessla.io)
 
-- Breach ???
-
-- Montre ???
-
-- [detectEr](https://github.com/duncanatt/detecter)
-
 - [TimelyMon](https://git.ku.dk/kfx532/timelymon) ???
+
+- [TraceContract](https://github.com/havelund/tracecontract)
+
+- [Verimon](https://bitbucket.org/jshs/monpoly) ???
+
