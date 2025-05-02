@@ -7,9 +7,9 @@ This page contains links to various runtime verification tools that have been de
 
 - [BeepBeep3](https://liflab.github.io/beepbeep-3)
 
-- Breach ???
+- [Breach](https://github.com/decyphir/breach)
 
-- [Daut](https://github.com/havelund/daut) An internal shallow Scala DSL (effectively an API) for runtime verification. A monitor is programmed as a class subclassing the `Monitor` class, which provides various constructs for writing monitors.
+- [Daut](https://github.com/havelund/daut) 
 
 - [DejaVu](https://github.com/havelund/dejavu)
 
@@ -29,11 +29,11 @@ This page contains links to various runtime verification tools that have been de
 
 - [MonPoly](https://bitbucket.org/monpoly/monpoly/src/master)
 
-- Montre ???
+- [Montre](https://github.com/doganulus/montre)
 
 - [Nfer](http://nfer.io)
 
-- [PyContract](https://github.com/pyrv/pycontract
+- [PyContract](https://github.com/pyrv/pycontract)
 
 - [PydDejaVu](https://github.com/moraneus/pydejavu)
 
@@ -49,13 +49,13 @@ This page contains links to various runtime verification tools that have been de
 
 - [R2U2](https://r2u2.temporallogic.org)
 
-- [SMEDL](https://github.com/PRECISE/SMEDL) A runtime verification framework to specify monitors using an EFSM-style formalism, to generate C executable monitor code from specifications, and to deploy the monitors in a centralized or distributed settings.
+- [SMEDL](https://github.com/PRECISE/SMEDL)
 
 - [TeSSLa](https://tessla.io)
 
-- [TimelyMon](https://git.ku.dk/kfx532/timelymon) ???
+- [TimelyMon](https://git.ku.dk/kfx532/timelymon)
 
 - [TraceContract](https://github.com/havelund/tracecontract)
 
-- [Verimon](https://bitbucket.org/jshs/monpoly) ???
+- [Verimon](https://bitbucket.org/jshs/monpoly)
 
