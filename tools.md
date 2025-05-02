@@ -26,35 +26,35 @@ This page contains links to various runtime verification tools that have been de
 
 - [ROSRV](https://github.com/cansuerdogan/ROSRV)
 
-- [JunitRV](https://www.isp.uni-luebeck.de/junitrv)
+- [JUnitRV](https://www.isp.uni-luebeck.de/junitrv)
 
 - [Larva](http://www.cs.um.edu.mt/svrg/Tools/LARVA)
 
 - [LogFire](https://github.com/havelund/logfire)
 
-- [MarQ](https://github.com/selig/qea)
+- [QEA](https://github.com/selig/qea)
 
 - [MonPoly](https://bitbucket.org/monpoly/monpoly/src/master)
 
-- [Verimon](https://bitbucket.org/jshs/monpoly)
+- [Verimon](https://bitbucket.org/jshs/monpoly) ???
 
 - [Nfer](http://nfer.io)
 
 - [R2U2](https://r2u2.temporallogic.org)
 
-- [Rtamt](https://github.com/nickovic/rtamt)
+- [RTAMT](https://github.com/nickovic/rtamt)
 
-- [Rtamt-cpp](https://github.com/Digital-Safety-and-Security/rtamt-cpp)
+- [RTAMT-CPP](https://github.com/Digital-Safety-and-Security/rtamt-cpp)
 
-- [hlola](https://software.imdea.org/hlola)
+- [HLola](https://software.imdea.org/hlola)
 
-- [rtlola](https://rtlola.cispa.de)
+- [RTLola](https://rtlola.cispa.de)
 
-- [hstriver](https://software.imdea.org/hstriver)
+- [HStriver](https://software.imdea.org/hstriver)
 
-- [Tessla](https://tessla.io)
+- [TeSSLa](https://tessla.io)
 
-- Breach
+- Breach 
 
 - Montre
 
