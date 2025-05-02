@@ -3,7 +3,9 @@ layout: page
 title: Tools 
 ---
 
-This page contains links to various runtime verification tools that have been developed over time. Feel free to add your tool.
+This page contains links to runtime verification tools that have an active website.
+
+If you want your tool added, send an email to <sean.k@queensu.ca> or <havelund@gmail.com>, with a link to the website.
 
 - [BeepBeep3](https://liflab.github.io/beepbeep-3)
 
