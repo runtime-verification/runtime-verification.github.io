@@ -11,6 +11,8 @@ If you want your tool added, send an email to <sean.k@queensu.ca> or <havelund@g
 
 - [Breach](https://github.com/decyphir/breach)
 
+- [Copilot](https://copilot-language.github.io)
+
 - [Daut](https://github.com/havelund/daut) 
 
 - [DejaVu](https://github.com/havelund/dejavu)
