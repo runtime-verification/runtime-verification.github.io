@@ -8,25 +8,16 @@ order: 2
 
 <h2>Future Events </h2>
 
-[RV'25](https://rv25.isec.tugraz.at/) **The 25th International Conference on Runtime Verification, Graz, Austria, September 15-19, 2025**.
+[RV'26](https://rv2026.smithengineering.queensu.ca) **The 26th International Conference on Runtime Verification, Kingston, Canada, October 6-9, 2026**.
 
-General chair:
+General chairs:
 
-- [Ezio bartocci](https://www.eziobartocci.com), TU Wien, Austria
+- [Sean Kauffman](https://seanmk.com), Queen’s University, Canada
+- [Giulia Pedrielli ](https://search.asu.edu/profile/3022467), Arizona State University, USA
 
-Program chairs: 
+Publicity chair: 
 
-- [Bettina Könighofer](https://www.iaik.tugraz.at/person/bettina-koenighofer), Graz University of Technology, Austria
-- [Hazem Torfah](https://starlab.systems/torfah.html), Chalmers University of Technology, Sweden
-
-Local chair:
-
-- [Roderick Bloem](https://www.isec.tugraz.at/person/roderick-bloem/), Graz University of Technology, Austria
-
-Publicity Chair
-
-- [Martin Tappler](https://mtappler.wordpress.com/), TU Wien, Austria
-
+- [Lars Lindemann](https://ee.ethz.ch/the-department/faculty/professors/person-detail.MzY4OTYz.TGlzdC80MTEsMTA1ODA0MjU5.html), ETH Zurich, Switzerland
 
 
 <h2>Past Conferences</h2>
@@ -35,6 +26,7 @@ Publicity Chair
 
 Some conference website links are no longer working, but we have kept the urls for historical reasons.
 
+| [RV'25](https://rv25.isec.tugraz.at) | The 25th International Conference on Runtime Verification, Graz, Austria, September 15-19, 2025 | [proceedings](https://link.springer.com/book/10.1007/978-3-032-05435-7)
 | [RV'24](https://bouncmpe.github.io/rv24) | The 24st International Conference on Runtime Verification, Istanbul, Turkey, October 15-18, 2024 | [proceedings](https://link.springer.com/book/10.1007/978-3-031-74234-7)
 | [RV'23](https://rv23.csd.auth.gr) | The 23rd International Conference on Runtime Verification, Thessaloniki, Greece, October 4-6, 2023 | [proceedings](https://link.springer.com/book/10.1007/978-3-031-44267-4)
 | [RV'22](https://rv22.gitlab.io/) | The 22nd International Conference on Runtime Verification, Tbilisi, Georgia, September 28-30, 2022 | [proceedings](https://link.springer.com/book/10.1007/978-3-031-17196-3)
