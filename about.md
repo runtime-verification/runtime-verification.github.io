@@ -20,3 +20,5 @@ Technologies supporting/using these efforts include:
 - program instrumentation, logging
 - combination of static and dynamic analysis
 - fault detection, identification, and recovery (FDIR)
+
+Maintained by Klaus Havelund `havelund@gmail.com`.
