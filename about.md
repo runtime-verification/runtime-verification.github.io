@@ -21,4 +21,4 @@ Technologies supporting/using these efforts include:
 - combination of static and dynamic analysis
 - fault detection, identification, and recovery (FDIR)
 
-Maintained by Klaus Havelund `havelund@gmail.com`.
+Maintained by Klaus Havelund `havelund@gmail.com`
